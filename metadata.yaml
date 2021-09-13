@@ -1,0 +1,31 @@
+_repo: Foods-and-Their-Adulteration-Origin-Manufacture-and-Composition-of-Food-Products-Description-__66164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wiley, Harvey Washington
+    aliases:
+    - Wiley, Harvey W. (Harvey Washington)
+    - Wiley, H. W. (Harvey Washington)
+    birthdate: 1844
+    deathdate: 1930
+    gutenberg_agent_id: '53662'
+    url: http://www.gutenberg.org/2009/agents/53662
+    wikipedia: https://en.wikipedia.org/wiki/Harvey_Washington_Wiley
+description: ''
+gutenberg_issued: '2021-08-29'
+identifiers:
+  gutenberg: '66164'
+  lccn: 07019428
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Food'
+- !lcsh 'Food adulteration and inspection'
+- GITenberg
+title: "Foods and Their Adulteration\r\nOrigin, Manufacture, and Composition of Food\
+  \ Products; Description of Common Adulterations, Food Standards, and National Food\
+  \ Laws and Regulations"
+url: http://www.gutenberg.org/ebooks/66164
